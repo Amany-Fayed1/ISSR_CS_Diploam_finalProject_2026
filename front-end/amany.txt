@@ -1,3 +1,2 @@
 hello i finished my task
-name : amany
 id : 202400618
